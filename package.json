@@ -1,0 +1,29 @@
+{
+  "name": "string-filatovmark",
+  "version": "1.0.0",
+  "description": "This module provides a collection of awesome functions for Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/filatovmark997/string-filatovmark"
+  },
+  "dependencies": {
+	  "selivanovpetr": "1.0.0",
+"marikovmailbory": "1.0.0",
+"mod-petrivany": "1.0.0",
+"pp06": "1.0.0",
+"squarunblownett": "1.0.0",
+"christopherlee": "1.0.0",
+    "axios": "^0.24.0",
+    "moment": "^2.29.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/filatovmark997/string-filatovmark/issues"
+  },
+  "homepage": "https://github.com/filatovmark997/string-filatovmark#readme"
+}
